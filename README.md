@@ -6,7 +6,7 @@
 
 正在开发
 
-[![Readme Card](https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=FireTimet&theme=transparent)](https://github.com/lieyanc/FireTime)
+[![Readme Card](https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=FireTime&theme=transparent)](https://github.com/lieyanc/FireTime)
 
 [![Readme Card](https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=open-webui-config-editor&theme=transparent)](https://github.com/lieyanc/open-webui-config-editor)
 
