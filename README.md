@@ -6,11 +6,11 @@
 
 正在开发
 
-[![Readme Card](https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=FireTimet&theme=transparent)](https://github.com/lieyanc/CV-Project)
+[![Readme Card](https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=FireTimet&theme=transparent)](https://github.com/lieyanc/FireTime)
 
-[![Readme Card](https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=open-webui-config-editor&theme=transparent)](https://github.com/lieyanc/FireStudyRoom)
+[![Readme Card](https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=open-webui-config-editor&theme=transparent)](https://github.com/lieyanc/open-webui-config-editor)
 
-[![Readme Card](https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=FireSSL&theme=transparent)](https://github.com/lieyanc/FireAMTController)
+[![Readme Card](https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=FireSSL&theme=transparent)](https://github.com/lieyanc/FireSSL)
 
 [![Readme Card](https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=FireStudyRoom&theme=transparent)](https://github.com/lieyanc/FireStudyRoom)
 
