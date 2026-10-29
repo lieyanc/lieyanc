@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=lieyanc&fontColor=f06a2a&fontSize=56&fontAlignY=45&desc=Go%20%20/%20%20TypeScript%20%20/%20%20LLM%20Infra%20%20/%20%20Linux&descSize=15&descAlignY=75&descColor=8b949e" width="100%" alt="lieyanc" />
+<p>
+  <img height="160" src="https://github-readme-status.vapp.lieyan.space/api?username=lieyanc&show_icons=true&theme=transparent&hide_border=true&hide_title=true&title_color=018eee&icon_color=018eee&text_color=8b949e&ring_color=018eee" alt="stats" />
+  <img height="160" src="https://github-readme-status.vapp.lieyan.space/api/top-langs/?username=lieyanc&theme=transparent&layout=compact&hide_border=true&title_color=018eee&icon_color=018eee&text_color=8b949e" alt="languages" />
+</p>
 
 在读大学生。主要写 Go 和 TypeScript，做自托管工具、LLM 基础设施，以及 Linux 桌面小工具
 
@@ -13,8 +16,8 @@
 ### Projects
 
 <p>
-  <a href="https://github.com/lieyanc/responses2chat"><img width="49%" src="https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=responses2chat&theme=transparent&hide_border=true" alt="responses2chat" /></a>
-  <a href="https://github.com/lieyanc/FireGateway"><img width="49%" src="https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=FireGateway&theme=transparent&hide_border=true" alt="FireGateway" /></a>
+  <a href="https://github.com/lieyanc/responses2chat"><img width="49%" src="https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=responses2chat&theme=transparent&hide_border=true&title_color=018eee&icon_color=018eee&text_color=8b949e" alt="responses2chat" /></a>
+  <a href="https://github.com/lieyanc/FireGateway"><img width="49%" src="https://github-readme-status.vapp.lieyan.space/api/pin/?username=lieyanc&repo=FireGateway&theme=transparent&hide_border=true&title_color=018eee&icon_color=018eee&text_color=8b949e" alt="FireGateway" /></a>
 </p>
 
 | | | |
@@ -31,9 +34,3 @@
 | **Tools** | [FireTime](https://github.com/lieyanc/FireTime) | 时间管理 |
 | | [ProjETA](https://github.com/lieyanc/ProjETA) | 多项目交付与进度看板 |
 
-<br />
-
-<p>
-  <img height="160" src="https://github-readme-status.vapp.lieyan.space/api?username=lieyanc&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="stats" />
-  <img height="160" src="https://github-readme-status.vapp.lieyan.space/api/top-langs/?username=lieyanc&theme=transparent&layout=compact&hide_border=true" alt="languages" />
-</p>
